@@ -1,0 +1,28 @@
+body {
+    background-color: #eef4ff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: #222;
+}
+
+blockquote {
+    background: white;
+    border-left: 6px solid steelblue;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    font-style: italic;
+    box-shadow: 0 2px 8px rgba(0,0,0,.15);
+}
+
+cite {
+    display: block;
+    text-align: right;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #555;
+}
